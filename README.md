@@ -11,6 +11,8 @@ Ubuntu 20.04.1 : https://www.onworks.net/os-distributions/ubuntu-based/free-ubun
 
 [NOT REAL] Windows 95 : https://win95.ajf.me/
 
+PCjs Machines : https://www.pcjs.org/software/pcx86/windows/
+
 Other : https://www.onworks.net/#
 
 --------------------
