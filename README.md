@@ -7,6 +7,10 @@ Windows 10 : https://www.onworks.net/os-distributions/special-os/windows-10-onli
 
 Ubuntu 20.04.1 : https://www.onworks.net/os-distributions/ubuntu-based/free-ubuntu-online-version-20
 
+[NOT REAL] Windows 93 Fake VM (just for fun) : https://www.windows93.net/ & https://v3.windows93.xyz/
+
+[NOT REAL] Windows 95 : https://win95.ajf.me/
+
 Other : https://www.onworks.net/#
 
 --------------------
