@@ -82,4 +82,24 @@ Min : 30s / Max : 30min
 
 --------------------
 
-### --------------------------------------- Website Virtual computer :
+### --------------------------------------- Website Virtual Games :
+
+Classic games : https://classicreload.com/win31-downloads.html
+
+--------------------
+
+### --------------------------------------- Website Virtual Browser :
+
+Virtual Browser : https://www.browserling.com/
+
+--------------------
+
+### --------------------------------------- Website Virtual Terminal :
+
+JS Linux : https://bellard.org/jslinux/vm.html?url=run/windows.cfg
+
+JS/UIX - Terminal : https://www.masswerk.at/jsuix/
+
+Virtual x86 : https://copy.sh/v86/
+
+--------------------
