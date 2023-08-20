@@ -11,6 +11,8 @@ Other : https://www.onworks.net/#
 
 [REAL VM] : https://tria.ge/dashboard (Need a account)
 
+
+
 ----- Windows :
 
 --> Windows 10-1703 (x64)
@@ -19,11 +21,15 @@ Other : https://www.onworks.net/#
 
 --> Windows 7 (x64)
 
+
+
 ----- Mac OS :
 
 --> macOS
 
 --> 10.15 (amd64)
+
+
 
 ----- Android :
 
@@ -32,6 +38,8 @@ Other : https://www.onworks.net/#
 --> Android 11 (x64)
 
 --> Android 9 (x64)
+
+
 
 ----- Linux :
 
@@ -42,6 +50,8 @@ Other : https://www.onworks.net/#
 --> 9 (mipsel)
 
 --> Ubuntu 18.04 (amd64)
+
+
 
 ----- Languages :
 
@@ -54,6 +64,8 @@ Other : https://www.onworks.net/#
 --> it-it (Italian)
 
 --> ja-jp (Japanese)
+
+
 
 ----- Time :
 
